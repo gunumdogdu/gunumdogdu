@@ -17,6 +17,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/emirgunumdogdu#gh-dark-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/gunumdogdu/github-readme-stats)
+
+[![The Otter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/gunumdogdu/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -29,12 +33,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="The Otter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gunumdogdu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
 
 
 
