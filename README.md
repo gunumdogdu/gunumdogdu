@@ -17,9 +17,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/emirgunumdogdu#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/gunumdogdu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
-[![The Otter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/gunumdogdu/github-readme-stats)
+[![The Otter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
 ### Languages and Tools:
 
