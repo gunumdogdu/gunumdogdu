@@ -19,9 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
-[![The Otter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
+[![The Otter's wakatime stats]<figure><embed src="https://wakatime.com/share/@gunumdogdu/7899990d-80bb-42f6-888c-7a5141f1ff65.svg"></embed></figure>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
