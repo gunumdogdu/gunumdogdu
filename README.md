@@ -2,7 +2,7 @@
 
 
 
-## I'm a Engineer,(soon) Developer!!
+## I'm an Engineer,(soon) Developer!!
 
 - 🌱 I’m currently learning Flutter & Figma
 - 👯 Once upon a time I was an Electrical-Electronic Engineer
