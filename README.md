@@ -20,8 +20,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
 [![The Otter's wakatime stats]
+<p float="left">
+  <img src="https://wakatime.com/share/@gunumdogdu/7899990d-80bb-42f6-888c-7a5141f1ff65.svg" height=500 width="450" />
+  <img src="https://wakatime.com/share/@gunumdogdu/8595afb7-e781-4883-9c75-e398586f41e3.svg" height=500 width="450" /> 
+</p>
 
-<img src="https://wakatime.com/share/@gunumdogdu/7899990d-80bb-42f6-888c-7a5141f1ff65.svg" height="400"/>
+
+
 ### Languages and Tools:
 <hr>
 
