@@ -2,11 +2,11 @@
 
 
 
-## I'm an Engineer,(soon) Developer!!
+## I'm an Engineer by grad & Self-taught Developer!!
 
-- 🌱 I’m currently learning Flutter & Figma
+- 🌱 I’m currently focused on Flutter & Figma
 - 👯 Once upon a time I was an Electrical-Electronic Engineer
-- 🥅 2023 Goals: Learn more about 'Solar Systems'
+- 🥅 2023 Goals: Learn more about 'Solar & Renewable Systems'
 - ⚡ Fun fact: I love to free-dive and play piano
 
 
@@ -37,8 +37,6 @@
 <img align="left" alt="Canva" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 
-
----
 
   <img align="left" alt="The Otter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gunumdogdu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
