@@ -7,7 +7,7 @@
 - 🌱 I’m currently focused on Flutter & Figma
 - 👯 Once upon a time I was an Electrical-Electronic Engineer
 - 🥅 2023 Goals: Learn more about 'Solar & Renewable Systems'
-- ⚡ Fun fact: I love to free-dive and play piano
+- ⚡ Fun fact: I love to free-dive
 
 
 ### Connect with me:
