@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/gunumdogdu#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/emirgunumdogdu#gh-dark-mode-only)
+[![website]](https://gunumdogdu.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
