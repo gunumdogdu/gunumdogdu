@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/gunumdogdu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website]](https://gunumdogdu.com)
+[![LinkedIn](https://example.com/linkedin-image.png)](https://linkedin.com/in/gunumdogdu)
+
+[![Website Logo](https://example.com/website-logo.png)](https://gunumdogdu.com)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
 
