@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://example.com/linkedin-image.png)](https://linkedin.com/in/gunumdogdu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunumdogdu)
 
-[![Website Logo](https://example.com/website-logo.png)](https://gunumdogdu.com)
+[![Website Logo](https://gunumdogdu.com/vscode_icon.svg)](https://gunumdogdu.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunumdogdu)](https://github.com/gunumdogdu/github-readme-stats)
