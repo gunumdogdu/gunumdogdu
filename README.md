@@ -4,7 +4,7 @@
 
 ## I'm an Engineer by grad & Self-taught Developer!!
 
-- 🌱 I’m currently focused on Flutter & Figma
+- ⚡ I'm a cross-platform mobile developer.
 - 👯 Once upon a time I was an Electrical-Electronic Engineer
 - ⚡ Fun fact: I love to free-dive
 
